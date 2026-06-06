@@ -110,4 +110,4 @@ The project includes:
 ## Sample Visualizations
 
 ### Boxplot Analysis
-![Boxplot](Images/plot1_boxplot.png)
+![Boxplot](plot1_boxplot.png)
